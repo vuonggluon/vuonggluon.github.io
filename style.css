@@ -1,0 +1,529 @@
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+.featured-blogs {
+    position: absolute;
+    top: 3116px;
+    left: 800px;
+    font-size: 44px;
+    display: inline-block;
+}
+
+.lorem-ipsum-dolor {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.elit-sed-do {
+    margin: 0;
+}
+
+.lorem-ipsum-dolor-sit-amet-co,
+.lorem-ipsum-dolor-sit-amet-co1,
+.lorem-ipsum-dolor-sit-amet-co2,
+.lorem-ipsum-dolor-sit-amet-co3 {
+    position: absolute;
+    top: 3664px;
+    left: 360px;
+    font-size: 22px;
+    line-height: 32px;
+    display: inline-block;
+    width: 578px;
+    height: 56px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co1,
+.lorem-ipsum-dolor-sit-amet-co2,
+.lorem-ipsum-dolor-sit-amet-co3 {
+    left: 986px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co2,
+.lorem-ipsum-dolor-sit-amet-co3 {
+    top: 4194px;
+    left: 360px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co3 {
+    left: 986px;
+}
+
+.incididunt-ut-labore-et-dolore,
+.incididunt-ut-labore-et-dolore1 {
+    position: absolute;
+    top: 3748px;
+    left: 360px;
+    line-height: 28px;
+    font-weight: 300;
+    color: #525252;
+    display: inline-block;
+    width: 578px;
+}
+
+.incididunt-ut-labore-et-dolore1 {
+    left: 986px;
+}
+
+.incididunt-ut-labore-et-dolore2 {
+    top: 4278px;
+    left: 360px;
+    line-height: 28px;
+    width: 578px;
+}
+
+.incididunt-ut-labore-et-dolore2,
+.incididunt-ut-labore-et-dolore3,
+.lorem-ipsum-dolor-sit-amet-co4 {
+    position: absolute;
+    font-weight: 300;
+    color: #525252;
+    display: inline-block;
+}
+
+.lorem-ipsum-dolor-sit-amet-co4 {
+    top: 3212.14px;
+    left: 518px;
+    font-size: 22px;
+    line-height: 32px;
+    text-align: center;
+    width: 886px;
+    height: 61.47px;
+}
+
+.incididunt-ut-labore-et-dolore3 {
+    top: 4278.37px;
+    left: 986px;
+    line-height: 28px;
+    width: 578px;
+}
+
+.rectangle,
+.rectangle1,
+.rectangle2,
+.rectangle3 {
+    position: absolute;
+    top: 3375.39px;
+    left: 361px;
+    width: 575px;
+    height: 250px;
+    object-fit: cover;
+}
+
+.rectangle1,
+.rectangle2,
+.rectangle3 {
+    left: 987px;
+}
+
+.rectangle2,
+.rectangle3 {
+    top: 3905.8px;
+    left: 361px;
+}
+
+.rectangle3 {
+    left: 987px;
+}
+
+.rectangle-div {
+    position: absolute;
+    top: 3185.96px;
+    left: 886px;
+    background-color: #126da6;
+    width: 150px;
+    height: 4px;
+}
+
+.our-products-b {
+    position: absolute;
+    top: 2049.73px;
+    left: 817px;
+    font-size: 44px;
+    display: inline-block;
+}
+
+.lorem-ipsum-dolor-sit-amet-co5,
+.product-1-b,
+.product-2-b,
+.product-3-b {
+    position: absolute;
+    top: 2658.33px;
+    left: 360px;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.lorem-ipsum-dolor-sit-amet-co5,
+.product-2-b,
+.product-3-b {
+    left: 777.63px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co5,
+.product-3-b {
+    left: 1193.25px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co5 {
+    top: 2145.94px;
+    left: 517px;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 300;
+    color: #525252;
+    text-align: center;
+    width: 886px;
+    height: 61.47px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co6,
+.lorem-ipsum-dolor-sit-amet-co7,
+.lorem-ipsum-dolor-sit-amet-co8 {
+    position: absolute;
+    top: 2700.33px;
+    left: 358.37px;
+    line-height: 28px;
+    font-weight: 300;
+    color: #525252;
+    display: inline-block;
+    width: 367.63px;
+    height: 47.4px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co7,
+.lorem-ipsum-dolor-sit-amet-co8 {
+    left: 776px;
+}
+
+.lorem-ipsum-dolor-sit-amet-co8 {
+    left: 1191.63px;
+}
+
+.rectangle4,
+.rectangle5,
+.rectangle6 {
+    position: absolute;
+    top: 2303.61px;
+    left: 360px;
+    width: 367px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.rectangle5,
+.rectangle6 {
+    left: 777.63px;
+}
+
+.rectangle6 {
+    left: 1193.25px;
+}
+
+.rectangle-div1,
+.rectangle-div2,
+.rectangle-div3 {
+    position: absolute;
+    top: 2789.11px;
+    left: 360px;
+    border-radius: 8px;
+    background-color: #126da6;
+    width: 130px;
+    height: 40px;
+}
+
+.rectangle-div2,
+.rectangle-div3 {
+    left: 777.63px;
+}
+
+.rectangle-div3 {
+    left: 1193.25px;
+}
+
+.buy-now,
+.buy-now1 {
+    position: absolute;
+    top: 2800.11px;
+    left: 389px;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    color: #fff;
+}
+
+.buy-now1 {
+    left: 806.63px;
+}
+
+.rectangle-div4 {
+    position: absolute;
+    top: 2119.76px;
+    left: 885px;
+    background-color: #126da6;
+    width: 150px;
+    height: 4px;
+}
+
+.buy-now2,
+.more-details-div,
+.more-details-div1,
+.more-details-div2 {
+    position: absolute;
+    top: 2800.11px;
+    left: 1222.25px;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: inline-block;
+    color: #fff;
+}
+
+.more-details-div,
+.more-details-div1,
+.more-details-div2 {
+    left: 514.75px;
+    text-decoration: underline;
+    font-weight: 500;
+    color: #126da6;
+}
+
+.more-details-div1,
+.more-details-div2 {
+    left: 932px;
+}
+
+.more-details-div2 {
+    left: 1348px;
+}
+
+.gallery-browser,
+.lorem-ipsum-dolor-sit-amet-co9 {
+    position: absolute;
+    top: 1066px;
+    left: 788px;
+    font-size: 44px;
+    display: inline-block;
+}
+
+.lorem-ipsum-dolor-sit-amet-co9 {
+    top: 1162px;
+    left: 515px;
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 300;
+    color: #525252;
+    text-align: center;
+    width: 886px;
+    height: 61.47px;
+}
+
+.rectangle7,
+.rectangle8,
+.rectangle9 {
+    position: absolute;
+    top: 1312.91px;
+    left: 358.37px;
+    width: 262px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.rectangle8,
+.rectangle9 {
+    top: 1562.91px;
+}
+
+.rectangle9 {
+    top: 1312.91px;
+    left: 671.04px;
+}
+
+.rectangle10,
+.rectangle11,
+.rectangle12,
+.rectangle13,
+.rectangle14 {
+    position: absolute;
+    top: 1312.91px;
+    left: 985.59px;
+    width: 262px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.rectangle11,
+.rectangle12,
+.rectangle13,
+.rectangle14 {
+    left: 1298.25px;
+}
+
+.rectangle12,
+.rectangle13,
+.rectangle14 {
+    top: 1562.91px;
+    left: 671.04px;
+}
+
+.rectangle13,
+.rectangle14 {
+    left: 985.59px;
+}
+
+.rectangle14 {
+    left: 1298.25px;
+}
+
+.rectangle-div5,
+.rectangle-div6 {
+    position: absolute;
+    top: 1135.3px;
+    left: 883.37px;
+    background-color: #126da6;
+    width: 150px;
+    height: 4px;
+}
+
+.rectangle-div6 {
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 100px;
+}
+
+.Copyright {
+    position: absolute;
+    top: 36px;
+    left: 359px;
+    line-height: 28px;
+    font-weight: 300;
+    display: inline-block;
+    width: 374px;
+}
+
+.facebook-div,
+.instagram-div,
+.twitter-div,
+.youtube-div {
+    position: absolute;
+    top: 36px;
+    left: 1141px;
+    line-height: 28px;
+    font-weight: 300;
+    display: inline-block;
+}
+
+.instagram-div,
+.twitter-div,
+.youtube-div {
+    left: 1266px;
+}
+
+.instagram-div,
+.youtube-div {
+    left: 1366px;
+}
+
+.instagram-div {
+    left: 1478px;
+}
+
+.group-div,
+.rectangle15 {
+    position: absolute;
+    left: 0;
+    width: 1920px;
+}
+
+.group-div {
+    top: 4550px;
+    height: 100px;
+    color: #fff;
+}
+
+.rectangle15 {
+    top: 100px;
+    height: 800px;
+    object-fit: cover;
+}
+
+.logo {
+    position: absolute;
+    top: 40px;
+    left: 360px;
+    width: 80px;
+}
+
+.blog,
+.contact-b,
+.gallery-b,
+.home-b,
+.product-b {
+    position: absolute;
+    top: 39px;
+    left: 672px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+.blog,
+.contact-b,
+.gallery-b,
+.product-b {
+    left: 780px;
+}
+
+.blog,
+.contact-b,
+.product-b {
+    left: 916px;
+}
+
+.blog,
+.contact-b {
+    left: 1160px;
+}
+
+.blog {
+    left: 1058px;
+}
+
+.rectangle-div8 {
+    position: absolute;
+    top: 26px;
+    left: 1454px;
+    background-color: #fff;
+    width: 106px;
+    height: 45px;
+}
+
+.log-in-b {
+    position: absolute;
+    top: 39px;
+    left: 1477px;
+    text-transform: uppercase;
+    display: inline-block;
+    color: #126da6;
+}
+.frame-div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1920px;
+    height: 900px;
+    overflow: hidden;
+    color: #fff;
+}
+
+.website {
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    height: 4650px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 18px;
+    color: #000;
+    font-family: Inter;
+}
