@@ -16,14 +16,31 @@
     console.log('Tuoi cua anh hon em la:',hisAge - herAge)
     console.log('Tuoi cua anh nhan tuoi em la:',hisAge * herAge)
   </script> -->
-  <script src="scrip.js"></script>
+ 
   <div class="container">
     <h1 class="fw-bold text-uppercase text-center my-5">Bài 1</h1>
     <div class="input-group mb-3">
       <input type="text" class="form-control" placeholder="Nhập Số Năm Sinh" name="" id="">
-      <button class="btn btn-primary" type="button"></button>
+      <button class="btn btn-primary" type="button">Nhập</button>
     </div>
+    <p id="result1"></p>
+    <p id="result2"></p>
+    <p id="result3"></p>
   </div>
+
+  <script>
+    inputButton.addEventListener('click', function(){
+    var currentYears = new Date().getFullYear()
+    var yearOfBirth = inputYear.value
+
+    var currentAge = currentYears - yearOfBirth
+
+    result1.innerHTML = `Năm hiện tại là: ${currentYears}`
+    result2.innerHTML = `Năm sinh người dùng là: ${yearOfBirth}`
+    result3.innerHTML = `Số tuổi người dùng là: ${currentAge}`
+})
+    
+  </script>
 
 </body>
 </html>
