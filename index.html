@@ -26,7 +26,11 @@
 		<p id="result2"></p>
 		<p id="result3"></p>
 	</div>
-  <script src="https://code.jquery.com/jquery-3.5.1.min.js">
+  <script>
+    // đặt biến var
+    var inputYear = document.querySelector('input')
+    var inputButton = document.querySelector('button')
+    // lấy dữ liệu cho ra kết quả
 		inputButton.addEventListener('click',function(){
 			var currentYear = new Date().getFullYear()
 			var yearOfBirth = inputYear.value
