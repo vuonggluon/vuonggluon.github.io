@@ -26,13 +26,13 @@
 // var inputYear = document.querySelector('input')
 // var inputButton = document.querySelector('button')
 
-inputButton.addEventListener('click', function(){
-    var currentYears = new Date().getFullYear()
-    var yearOfBirth = inputYear.value
+// inputButton.addEventListener('click', function(){
+//     var currentYears = new Date().getFullYear()
+//     var yearOfBirth = inputYear.value
 
-    var currentAge = currentYears - yearOfBirth
+//     var currentAge = currentYears - yearOfBirth
 
-    result1.innerHTML = `Năm hiện tại là: ${currentYears}`
-    result2.innerHTML = `Năm sinh người dùng là: ${yearOfBirth}`
-    result3.innerHTML = `Số tuổi người dùng là: ${currentAge}`
-})
+//     result1.innerHTML = `Năm hiện tại là: ${currentYears}`
+//     result2.innerHTML = `Năm sinh người dùng là: ${yearOfBirth}`
+//     result3.innerHTML = `Số tuổi người dùng là: ${currentAge}`
+// })

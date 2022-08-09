@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="initial-scale=1, width=device-width">
-  <title>Buổi 9</title>
-  <link rel="stylesheet" href="style.css">
+  <title>ais chếc tiệc cái js này</title>
+    <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;500;700&display=swap" />
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
 </head>
@@ -16,31 +16,27 @@
     console.log('Tuoi cua anh hon em la:',hisAge - herAge)
     console.log('Tuoi cua anh nhan tuoi em la:',hisAge * herAge)
   </script> -->
- 
   <div class="container">
     <h1 class="fw-bold text-uppercase text-center my-5">Bài 1</h1>
     <div class="input-group mb-3">
       <input type="text" class="form-control" placeholder="Nhập Số Năm Sinh" name="" id="">
       <button class="btn btn-primary" type="button">Nhập</button>
     </div>
-    <p id="result1"></p>
-    <p id="result2"></p>
-    <p id="result3"></p>
-  </div>
+		<p id="result1"></p>
+		<p id="result2"></p>
+		<p id="result3"></p>
+	</div>
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js">
+		inputButton.addEventListener('click',function(){
+			var currentYear = new Date().getFullYear()
+			var yearOfBirth = inputYear.value
 
-  <script>
-    inputButton.addEventListener('click', function(){
-    var currentYears = new Date().getFullYear()
-    var yearOfBirth = inputYear.value
+			var currentAge = currentYear - yearOfBirth
 
-    var currentAge = currentYears - yearOfBirth
-
-    result1.innerHTML = `Năm hiện tại là: ${currentYears}`
-    result2.innerHTML = `Năm sinh người dùng là: ${yearOfBirth}`
-    result3.innerHTML = `Số tuổi người dùng là: ${currentAge}`
-})
-    
+			result1.innerHTML = `Nam hien tai la: ${currentYear}` 
+			result2.innerHTML = `Nam sinh nguoi dung: ${yearOfBirth}` 
+			result3.innerHTML = `So tuoi nguoi dung la: ${currentAge}` 
+    })
   </script>
-
 </body>
 </html>
